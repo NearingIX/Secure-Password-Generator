@@ -24,5 +24,5 @@ while True:
         print("Thank you!")
         break
     except ValueError:
-        print("You did not enter an number.")
+        print("You did not enter a number.")
         continue
